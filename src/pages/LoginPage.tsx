@@ -20,7 +20,6 @@ const LOGIN = gql`
       refreshToken
       user {
         id
-        email
         username
         firstName
         lastName
